@@ -1,5 +1,2 @@
-This is a repository to host exercices and data samples used in the coursera specialization in Data Science.
-
+This is a repository to host exercices and data samples used in the coursera specialization in Data Science from Johns Hopkins University.
 Check more information @ https://www.coursera.org/specialization/jhudatascience/1
-
-Let's start the course again ;-)
